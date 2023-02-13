@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nataliarnedo
 - 👀 I’m interested in graphic design, editorial design and UX/UI design. I love cats, ethnobotany and post punk.
 - 🌱 I’m currently learning about UX/UI design.
-- 💞️ I’m looking to collaborate on ... 
+- 💞️ I’m looking to collaborate on projects about typography and product design
 - 📫 You can reach me on www.nataliarnedo.com
 
 <!---
